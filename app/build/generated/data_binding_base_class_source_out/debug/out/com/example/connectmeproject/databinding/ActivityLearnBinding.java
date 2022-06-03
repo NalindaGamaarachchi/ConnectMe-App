@@ -9,6 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.connectmeproject.R;
@@ -21,24 +22,24 @@ public final class ActivityLearnBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView hint;
-
-  @NonNull
   public final ImageView imageView;
 
   @NonNull
   public final ConstraintLayout layoutHead;
 
   @NonNull
+  public final RecyclerView recyclerView;
+
+  @NonNull
   public final TextView txtConnectME;
 
-  private ActivityLearnBinding(@NonNull ConstraintLayout rootView, @NonNull TextView hint,
-      @NonNull ImageView imageView, @NonNull ConstraintLayout layoutHead,
+  private ActivityLearnBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView imageView,
+      @NonNull ConstraintLayout layoutHead, @NonNull RecyclerView recyclerView,
       @NonNull TextView txtConnectME) {
     this.rootView = rootView;
-    this.hint = hint;
     this.imageView = imageView;
     this.layoutHead = layoutHead;
+    this.recyclerView = recyclerView;
     this.txtConnectME = txtConnectME;
   }
 
@@ -69,12 +70,6 @@ public final class ActivityLearnBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.hint;
-      TextView hint = ViewBindings.findChildViewById(rootView, id);
-      if (hint == null) {
-        break missingId;
-      }
-
       id = R.id.imageView;
       ImageView imageView = ViewBindings.findChildViewById(rootView, id);
       if (imageView == null) {
@@ -87,14 +82,20 @@ public final class ActivityLearnBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.recyclerView;
+      RecyclerView recyclerView = ViewBindings.findChildViewById(rootView, id);
+      if (recyclerView == null) {
+        break missingId;
+      }
+
       id = R.id.txtConnectME;
       TextView txtConnectME = ViewBindings.findChildViewById(rootView, id);
       if (txtConnectME == null) {
         break missingId;
       }
 
-      return new ActivityLearnBinding((ConstraintLayout) rootView, hint, imageView, layoutHead,
-          txtConnectME);
+      return new ActivityLearnBinding((ConstraintLayout) rootView, imageView, layoutHead,
+          recyclerView, txtConnectME);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

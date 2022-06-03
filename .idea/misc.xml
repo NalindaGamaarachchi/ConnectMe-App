@@ -3,12 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/NSBM/2nd Year/Mobile App/ConnectMeProject/app/src/main/res/layout/activity_language_transalate.xml" value="0.1157548125633232" />
-        <entry key="..\:/NSBM/2nd Year/Mobile App/ConnectMeProject/app/src/main/res/layout/activity_learn.xml" value="0.22826086956521738" />
-        <entry key="..\:/NSBM/2nd Year/Mobile App/ConnectMeProject/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/NSBM/2nd Year/Mobile App/ConnectMeProject/app/src/main/res/layout/activity_search.xml" value="0.1157548125633232" />
-        <entry key="..\:/NSBM/2nd Year/Mobile App/ConnectMeProject/app/src/main/res/layout/content_learn.xml" value="0.1157548125633232" />
-        <entry key="..\:/NSBM/2nd Year/Mobile App/ConnectMeProject/app/src/main/res/layout/item_list.xml" value="0.1" />
+        <entry key="..\:/AL/ConnectMeProject/app/src/main/res/layout/activity_learn.xml" value="0.264" />
+        <entry key="..\:/AL/ConnectMeProject/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/AL/ConnectMeProject/app/src/main/res/layout/activity_speak_to_text.xml" value="0.1" />
+        <entry key="..\:/AL/ConnectMeProject/app/src/main/res/layout/list_item.xml" value="0.264" />
       </map>
     </option>
   </component>

@@ -6,6 +6,7 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <color name="underline">#D8D6D6</color>
     <color name="white">#FFFFFFFF</color>
     <dimen name="fab_margin">16dp</dimen>
     <item name="btnSpeech" type="id"/>
@@ -36,6 +37,11 @@
     <string name="title_activity_translate">Translate</string>
     <string name="translate">Translate</string>
     <string name="voiceicon">voiceIcon</string>
+    <style name="RoundCorner" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+        <item name="color">@color/white</item>
+    </style>
     <style name="Theme.ConnectMeProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>

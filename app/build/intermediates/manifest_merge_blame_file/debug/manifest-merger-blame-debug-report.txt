@@ -6,16 +6,16 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml
+8-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml
+9-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:5:6-67
-11-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:5:23-65
+11-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:5:6-67
+11-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:5:23-65
 12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-12-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:6:6-72
-12-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:6:23-69
+12-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:6:6-72
+12-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:6:23-69
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 13-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\PIYUMI\.gradle\caches\transforms-3\30dd45534eb4ba83a263e035889fdf16\transformed\firebase-auth-21.0.4\AndroidManifest.xml:24:5-79
 13-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\PIYUMI\.gradle\caches\transforms-3\30dd45534eb4ba83a263e035889fdf16\transformed\firebase-auth-21.0.4\AndroidManifest.xml:24:22-76
@@ -30,103 +30,103 @@
 16-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\PIYUMI\.gradle\caches\transforms-3\92023ffd4599db43ecda7ee7adae8643\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
 17
 18    <application
-18-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:9:5-57:19
+18-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:9:5-57:19
 19        android:allowBackup="true"
-19-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:10:9-35
+19-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:10:9-35
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.7.0] C:\Users\PIYUMI\.gradle\caches\transforms-3\a5e36a7973bacd1073f7b1e9b8f974a7\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
 22        android:icon="@mipmap/ic_launcher"
-22-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:11:9-43
+22-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:11:9-43
 23        android:label="@string/app_name"
-23-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:12:9-41
+23-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:12:9-41
 24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:13:9-54
+24-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:13:9-54
 25        android:supportsRtl="true"
-25-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:14:9-35
+25-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:14:9-35
 26        android:testOnly="true"
 27        android:theme="@style/Theme.ConnectMeProject" >
-27-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:15:9-54
+27-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:15:9-54
 28        <activity
-28-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:16:9-18:40
+28-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:16:9-18:40
 29            android:name="com.example.connectmeproject.SpeakToText"
-29-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:17:13-40
+29-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:17:13-40
 30            android:exported="false" />
-30-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:18:13-37
+30-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:18:13-37
 31        <activity
-31-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:19:9-21:40
+31-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:19:9-21:40
 32            android:name="com.example.connectmeproject.LanguageTransalate"
-32-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:20:13-47
+32-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:20:13-47
 33            android:exported="false" />
-33-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:21:13-37
+33-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:21:13-37
 34        <activity
-34-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:22:9-24:40
+34-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:22:9-24:40
 35            android:name="com.example.connectmeproject.SearchActivity"
-35-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:23:13-43
+35-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:23:13-43
 36            android:exported="false" />
-36-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:24:13-37
+36-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:24:13-37
 37        <activity
-37-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:25:9-29:73
+37-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:25:9-29:73
 38            android:name="com.example.connectmeproject.Translate"
-38-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:26:13-38
+38-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:26:13-38
 39            android:exported="false"
-39-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:27:13-37
+39-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:27:13-37
 40            android:label="@string/title_activity_translate"
-40-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:28:13-61
+40-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:28:13-61
 41            android:theme="@style/Theme.ConnectMeProject.NoActionBar" />
-41-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:29:13-70
+41-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:29:13-70
 42        <activity
-42-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:30:9-34:73
+42-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:30:9-34:73
 43            android:name="com.example.connectmeproject.Learn"
-43-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:31:13-34
+43-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:31:13-34
 44            android:exported="false"
-44-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:32:13-37
+44-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:32:13-37
 45            android:label="@string/title_activity_learn"
-45-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:33:13-57
+45-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:33:13-57
 46            android:theme="@style/Theme.ConnectMeProject.NoActionBar" />
-46-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:34:13-70
+46-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:34:13-70
 47        <activity
-47-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:35:9-43:20
+47-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:35:9-43:20
 48            android:name="com.example.connectmeproject.SignIn"
-48-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:36:13-35
+48-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:36:13-35
 49            android:exported="true" >
-49-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:37:13-36
+49-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:37:13-36
 50            <intent-filter>
-50-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:38:13-42:29
+50-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:38:13-42:29
 51                <action android:name="android.intent.action.MAIN" />
-51-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:39:17-69
-51-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:39:25-66
+51-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:39:17-69
+51-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:39:25-66
 52
 53                <category android:name="android.intent.category.LAUNCHER" />
-53-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:41:17-77
-53-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:41:27-74
+53-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:41:17-77
+53-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:41:27-74
 54            </intent-filter>
 55        </activity>
 56        <activity
-56-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:44:9-46:40
+56-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:44:9-46:40
 57            android:name="com.example.connectmeproject.SignUp"
-57-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:45:13-35
+57-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:45:13-35
 58            android:exported="false" />
-58-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:46:13-37
+58-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:46:13-37
 59        <activity
-59-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:47:9-53:20
+59-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:47:9-53:20
 60            android:name="com.example.connectmeproject.MainActivity"
-60-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:48:13-41
+60-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:48:13-41
 61            android:exported="true" >
-61-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:49:13-36
+61-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:49:13-36
 62            <intent-filter>
-62-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:50:13-52:29
+62-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:50:13-52:29
 63                <action android:name="android.intent.action.MAIN" />
-63-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:39:17-69
-63-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:39:25-66
+63-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:39:17-69
+63-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:39:25-66
 64            </intent-filter>
 65        </activity>
 66        <activity
-66-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:54:9-56:40
+66-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:54:9-56:40
 67            android:name="com.example.connectmeproject.SpeechLayoutActivity"
-67-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:55:13-49
+67-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:55:13-49
 68            android:exported="false" />
-68-->E:\NSBM\2nd Year\Mobile App\ConnectMeProject\app\src\main\AndroidManifest.xml:56:13-37
+68-->E:\AL\ConnectMeProject\app\src\main\AndroidManifest.xml:56:13-37
 69        <activity
 69-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\PIYUMI\.gradle\caches\transforms-3\30dd45534eb4ba83a263e035889fdf16\transformed\firebase-auth-21.0.4\AndroidManifest.xml:27:9-44:20
 70            android:name="com.google.firebase.auth.internal.GenericIdpActivity"

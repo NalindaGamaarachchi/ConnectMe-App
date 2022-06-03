@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\NSBM\\2nd Year\\Mobile App\\ConnectMeProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "outputFile": "E:\\AL\\ConnectMeProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "E:\\NSBM\\2nd Year\\Mobile App\\ConnectMeProject\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "E:\\AL\\ConnectMeProject\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

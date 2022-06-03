@@ -1840,6 +1840,7 @@ color test_mtrl_calendar_day
 color test_mtrl_calendar_day_selected
 color tooltip_background_dark
 color tooltip_background_light
+color underline
 color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
@@ -2512,6 +2513,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable afternoon
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -2546,10 +2548,14 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable good
+drawable goodbye
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable googletranslate
 drawable header
+drawable hello
+drawable how
 drawable ic_baseline_mic_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
@@ -2584,6 +2590,7 @@ drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
 drawable mic
 drawable mic1
+drawable morning
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -2595,6 +2602,7 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_overlay
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable night
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -2608,10 +2616,12 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable search
+drawable sorry
 drawable speech
 drawable sptotext
 drawable test_custom_background
 drawable test_level_drawable
+drawable thanks
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable trans
@@ -3012,6 +3022,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerView
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3128,6 +3139,7 @@ id textview_second
 id time
 id title
 id titleDividerNoCustom
+id title_image
 id title_template
 id toggle
 id top
@@ -3141,6 +3153,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvDescription
+id tvHeading
 id txtConnectME
 id txtSearch
 id unchecked
@@ -3290,6 +3304,7 @@ layout fragment_first
 layout fragment_first2
 layout fragment_second
 layout fragment_second2
+layout list_item
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3851,6 +3866,7 @@ style Platform_V21_AppCompat_Light
 style Platform_V25_AppCompat
 style Platform_V25_AppCompat_Light
 style Platform_Widget_AppCompat_Spinner
+style RoundCorner
 style RtlOverlay_DialogWindowTitle_AppCompat
 style RtlOverlay_Widget_AppCompat_ActionBar_TitleItem
 style RtlOverlay_Widget_AppCompat_DialogTitle_Icon

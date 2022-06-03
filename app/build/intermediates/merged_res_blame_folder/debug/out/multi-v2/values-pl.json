@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\NSBM\\2nd Year\\Mobile App\\ConnectMeProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+            "outputFile": "E:\\AL\\ConnectMeProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\PIYUMI\\.gradle\\caches\\transforms-3\\c0f9b1f8d3ec707a388378e747a35774\\transformed\\navigation-ui-2.4.2\\res\\values-pl\\values-pl.xml",
